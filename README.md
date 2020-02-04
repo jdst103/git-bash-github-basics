@@ -7,11 +7,8 @@
 - leanne
 - shaughna
 
-#my fav colour
-
-red and black
 
 # a line from kenan and kel
 kel: who loves orange soda?
 everyone:
-kel: kel loves orange soda 
+kel: kel loves orange soda
