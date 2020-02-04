@@ -9,4 +9,9 @@
 
 #my fav colour
 
-red and black 
+red and black
+
+# a line from kenan and kel
+kel: who loves orange soda?
+everyone:
+kel: kel loves orange soda 
